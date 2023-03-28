@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color:bisque;
+}
+img{
+    border-style: double;
+    border-width: 10px;
+    padding: 30px;
+    margin: 30px;
+}
